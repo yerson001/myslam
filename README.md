@@ -8,9 +8,12 @@ $ make
 
 
 cambiar de rama en git 
+
 $ git checkout 3.4 
 
+
 version opencv
+
 $ pkg-config --modversion opencv
 
 
