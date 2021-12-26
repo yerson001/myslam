@@ -17,4 +17,7 @@ version opencv
 $ pkg-config --modversion opencv
 
 
+INstalar VTK
+
+$ sudo apt-get install vtk7
 
